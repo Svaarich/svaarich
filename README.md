@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on [Anywakey iOS app](https://github.com/Svaarich/Anywakey_iOS)
 - 📫 How to reach me - Telegram: @svaarich
@@ -14,8 +14,8 @@
 
 ![other](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,lr,figma,canva,blender,sketchup)
 
-##
+## Socials
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discord.com/users/254336207981510657)
 
-##
+## Stats
 [![](https://visitcount.itsvg.in/api?id=svaarich&icon=2&color=6)](https://visitcount.itsvg.in)
