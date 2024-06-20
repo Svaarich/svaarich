@@ -19,6 +19,6 @@
 
 ## Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Svarich?theme=nord&font=Atkinson%20Hyperlegible)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Svarich?theme=nord&font=Exo)
 
 [![](https://visitcount.itsvg.in/api?id=svaarich&icon=2&color=6)](https://visitcount.itsvg.in)
